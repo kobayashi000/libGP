@@ -1,4 +1,5 @@
+libGP
 =============================
-           libGP
-   General Purpose Library
-=============================
+
+General Purpose Library
+-----------------------------
